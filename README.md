@@ -6,5 +6,9 @@
  <p align ="center"> 
 <img width="357" height="256" alt="image" src="https://github.com/user-attachments/assets/b90a0216-996f-40f8-87a0-dcb84606acbd" />
 
+<p align ="center"> 
+<img width="36" height="20" alt="Mousewalk" src="https://github.com/user-attachments/assets/b33f5bb3-a269-4cff-9000-04a2b1184fd8" />
+<img width="81" height="50" alt="Scavwalk" src="https://github.com/user-attachments/assets/6c4bb532-ee24-41e1-9ba1-a1ce5b0dd4ff" />
 
+<p align ="center"> 
 <img width="800" height="120" alt="RivuletSlide" src="https://github.com/user-attachments/assets/36cca8f6-5c70-408a-b5f7-131be72f9c7a" />
